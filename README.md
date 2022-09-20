@@ -4,7 +4,8 @@ Are you looking for software developer job in Indonesia?
 
 You have come to the right place!
 
-## With Live Coding Test
+## Companies
+### With Live Coding Test
 
 [BliBli](https://careers.blibli.com/): Personality test | Live coding
 
@@ -12,7 +13,7 @@ You have come to the right place!
 
 [Pintu](https://careers.pintu.co.id/): Live coding
 
-## No Live Coding
+### No Live Coding
 
 [Astra Internasional](https://career.astra.co.id/): Hackerrank | Technical interview
 
@@ -22,7 +23,7 @@ You have come to the right place!
 
 [Telkom Indonesia](https://recruitmentdigital.telkom.co.id/): Coderbyte | Technical interview
 
-## Other Companies
+### Other 
 
 [DKatalis](https://www.dkatalis.co/jobs)
 
