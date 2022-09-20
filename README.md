@@ -48,7 +48,11 @@ You have come to the right place!
 
 [Javascript Indonesia](https://t.me/js_id)
 
+[Kita Kerja Remote](https://discord.gg/j4Ku4wbc)
+
 [NodeJS Indonesia](https://t.me/nodejsid)
+
+[Overseas Indonesia](https://discord.gg/7qrq3ag4)
 
 [ReactJS Indonesia](https://t.me/react_idn)
 
