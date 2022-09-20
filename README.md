@@ -34,5 +34,22 @@ You have come to the right place!
 
 [YCombinator](https://www.workatastartup.com/)
 
+## Communities
 
+[Alterra](https://t.me/Forum_Altaid)
 
+[Flutter Indonesia](https://t.me/flutter_id)
+
+[HRD Bacot](https://t.me/hrdbacot)
+
+[Golang Indonesia](https://t.me/golangID)
+
+[Golang Jakarta](https://t.me/gophers_id)
+
+[Javascript Indonesia](https://t.me/js_id)
+
+[NodeJS Indonesia](https://t.me/nodejsid)
+
+[ReactJS Indonesia](https://t.me/react_idn)
+
+[Software Engineer Indonesia](https://t.me/soft_eng_id)
