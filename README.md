@@ -23,6 +23,8 @@ You have come to the right place!
 
 [Telkom Indonesia](https://recruitmentdigital.telkom.co.id/): Coderbyte | Technical interview
 
+[Eduprime](https://www.eduprime.co.id/) : Technical Interview
+
 ### Other 
 
 [DKatalis](https://www.dkatalis.co/jobs)
