@@ -30,9 +30,9 @@ You have come to the right place!
 
 [Remoter](https://remoter.id/)
 
-[TechInAsia Job](https://www.techinasia.com/jobs)
+[Tech In Asia Job](https://www.techinasia.com/jobs)
 
-[YCombinator](https://www.workatastartup.com/application/personal)
+[YCombinator](https://www.workatastartup.com/)
 
 
 
