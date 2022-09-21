@@ -81,4 +81,7 @@ You have come to the right place!
 
 [Angular Indonesia](https://t.me/AngularID)
 
+[Bekasi Developer Community](https://t.me/bekasidev)
+
 [Lowongan Kerja IT Telegram](https://t.me/LowonganKerjaIT)
+
