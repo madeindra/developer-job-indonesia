@@ -11,6 +11,8 @@ You have come to the right place!
 
 [Dropezy](https://www.linkedin.com/company/dropezy/jobs/): Logical test | Live coding
 
+[IceHouse](https://icehousecorp.com/careers/): Live coding | Technical knowledge
+
 [Pintu](https://careers.pintu.co.id/): Live coding
 
 [Ruangguru](https://career.ruangguru.com/) : Technical Interview : Live Coding
@@ -23,19 +25,17 @@ You have come to the right place!
 
 [Deall](https://usedeall.com/career)/[SejutaCita](https://sejutacita.id/career): Project | Technical interview
 
+[DOKU](https://www.doku.com/): Technical Interview
+
+[Eduprime](https://www.eduprime.co.id/): Technical Interview
+
+[Rakamin Academy](https://rakamin.com): Technical Interview | Coding Test Take Home
+
 [Telkom Indonesia](https://recruitmentdigital.telkom.co.id/): Coderbyte | Technical interview
-
-[Eduprime](https://www.eduprime.co.id/) : Technical Interview
-
-[DOKU](https://www.doku.com/) | Technical Interview
-
-[Rakamin Academy](https://rakamin.com) | Technical Interview | Coding Test Take Home
 
 ### Other 
 
 [DKatalis](https://www.dkatalis.co/jobs)
-
-[IceHouse](https://icehousecorp.com/careers/)
 
 [Stockbit/Bibit](https://apply.workable.com/stockbit/)
 
@@ -59,6 +59,10 @@ You have come to the right place!
 
 [Alterra](https://t.me/Forum_Altaid)
 
+[Angular Indonesia](https://t.me/AngularID)
+
+[Bekasi Developer Community](https://t.me/bekasidev)
+
 [Flutter Indonesia](https://t.me/flutter_id)
 
 [HRD Bacot](https://t.me/hrdbacot)
@@ -71,6 +75,10 @@ You have come to the right place!
 
 [Kita Kerja Remote](https://discord.gg/j4Ku4wbc)
 
+[Loker Developer IT Telegram](https://t.me/LokerDeveloper)
+
+[Lowongan Kerja IT Telegram](https://t.me/LowonganKerjaIT)
+
 [NodeJS Indonesia](https://t.me/nodejsid)
 
 [Overseas Indonesia](https://discord.gg/7qrq3ag4)
@@ -78,11 +86,3 @@ You have come to the right place!
 [ReactJS Indonesia](https://t.me/react_idn)
 
 [Software Engineer Indonesia](https://t.me/soft_eng_id)
-
-[Angular Indonesia](https://t.me/AngularID)
-
-[Bekasi Developer Community](https://t.me/bekasidev)
-
-[Lowongan Kerja IT Telegram](https://t.me/LowonganKerjaIT)
-
-[Loker Developer IT Telegram](https://t.me/LokerDeveloper)
