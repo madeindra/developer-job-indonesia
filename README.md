@@ -80,3 +80,5 @@ You have come to the right place!
 [Software Engineer Indonesia](https://t.me/soft_eng_id)
 
 [Angular Indonesia](https://t.me/AngularID)
+
+[Lowongan Kerja IT Telegram](https://t.me/LowonganKerjaIT)
