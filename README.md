@@ -75,6 +75,8 @@ You have come to the right place!
 
 [Kita Kerja Remote](https://discord.gg/j4Ku4wbc)
 
+[Kubernetes Cloud Native Indonesia](https://t.me/kubernetesindonesia)
+
 [Loker Developer IT Telegram](https://t.me/LokerDeveloper)
 
 [Lowongan Kerja IT Telegram](https://t.me/LowonganKerjaIT)
