@@ -78,3 +78,5 @@ You have come to the right place!
 [ReactJS Indonesia](https://t.me/react_idn)
 
 [Software Engineer Indonesia](https://t.me/soft_eng_id)
+
+[Angular Indonesia](https://t.me/AngularID)
