@@ -85,6 +85,8 @@ You have come to the right place!
 
 [Javascript Indonesia - Telegram](https://t.me/js_id)
 
+[JVM Indonesia - Telegram](https://t.me/JVMIndonesia)
+
 [Kita Kerja Remote - Discord](https://discord.gg/j4Ku4wbc)
 
 [Kubernetes Cloud Native Indonesia - Telegram](https://t.me/kubernetesindonesia)
