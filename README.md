@@ -15,7 +15,7 @@ You have come to the right place!
 
 [Pintu](https://careers.pintu.co.id/): Live coding
 
-[Ruangguru](https://career.ruangguru.com/) : Technical Interview : Live Coding
+[Ruangguru](https://career.ruangguru.com/) : Technical Interview | Live Coding
 
 ### No Live Coding
 
@@ -55,36 +55,54 @@ You have come to the right place!
 
 [YCombinator](https://www.workatastartup.com/)
 
+## CV/Resume & Cover Letter
+
+[Workhap](https://www.workhap.com/freebies/) have a template for ATS-friendly Resume & Cover Letter, you can get it on [https://www.workhap.com/freebies/](https://www.workhap.com/freebies/).
+
+## Mentoring
+
+[Made Indra](https://adplist.org/mentors/made-indra): General mentoring | CV/Resume review | Mock interview
+
 ## Communities
 
-[Alterra](https://t.me/Forum_Altaid)
+[Alterra - Telegram](https://t.me/Forum_Altaid)
 
-[Angular Indonesia](https://t.me/AngularID)
+[Angular Indonesia - Telegram](https://t.me/AngularID)
 
-[Bekasi Developer Community](https://t.me/bekasidev)
+[Bekasi Developer Community - Telegram](https://t.me/bekasidev)
 
-[Flutter Indonesia](https://t.me/flutter_id)
+[Flutter Indonesia - Telegram](https://t.me/flutter_id)
 
-[HRD Bacot](https://t.me/hrdbacot)
+[HRD Bacot - Telegram](https://t.me/hrdbacot)
 
-[Golang Indonesia](https://t.me/golangID)
+[Golang Indonesia - Telegram](https://t.me/golangID)
 
-[Golang Jakarta](https://t.me/gophers_id)
+[Golang Jakarta - Telegram](https://t.me/gophers_id)
 
-[Javascript Indonesia](https://t.me/js_id)
+[Google Developer Group (GDG) Jakarta - Meetup.com](https://www.meetup.com/GDG-Jakarta/)
 
-[Kita Kerja Remote](https://discord.gg/j4Ku4wbc)
+[Jakarta Javascript - Meetup.com](https://www.meetup.com/JakartaJS/)
 
-[Kubernetes Cloud Native Indonesia](https://t.me/kubernetesindonesia)
+[Javascript Indonesia - Telegram](https://t.me/js_id)
 
-[Loker Developer IT Telegram](https://t.me/LokerDeveloper)
+[Kita Kerja Remote - Discord](https://discord.gg/j4Ku4wbc)
 
-[Lowongan Kerja IT Telegram](https://t.me/LowonganKerjaIT)
+[Kubernetes Cloud Native Indonesia - Telegram](https://t.me/kubernetesindonesia)
 
-[NodeJS Indonesia](https://t.me/nodejsid)
+[Loker Developer IT Telegram - Telegram](https://t.me/LokerDeveloper)
 
-[Overseas Indonesia](https://discord.gg/7qrq3ag4)
+[Lowongan Kerja IT Telegram - Telegram](https://t.me/LowonganKerjaIT)
 
-[ReactJS Indonesia](https://t.me/react_idn)
+[NodeJS Indonesia - Telegram](https://t.me/nodejsid)
 
-[Software Engineer Indonesia](https://t.me/soft_eng_id)
+[NodeJS Jakarta - Meetup.com](https://www.meetup.com/Node-js-Workshop/)
+
+[Overseas Indonesia - Discord](https://discord.gg/7qrq3ag4)
+
+[OWASP Jakarta Chapter - Meetup.com](https://www.meetup.com/GDG-Jakarta/)
+
+[React Indonesia - Meetup.com](https://www.meetup.com/reactindonesia/)
+
+[ReactJS Indonesia - Telegram](https://t.me/react_idn)
+
+[Software Engineer Indonesia - Telegram](https://t.me/soft_eng_id)
