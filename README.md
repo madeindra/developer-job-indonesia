@@ -29,6 +29,8 @@ You have come to the right place!
 
 [Eduprime](https://www.eduprime.co.id/): Technical Interview
 
+[Fintax/Pajak.io](https://pajak.io/): Technical Interview
+
 [Rakamin Academy](https://rakamin.com): Technical Interview | Coding Test Take Home
 
 [Telkom Indonesia](https://recruitmentdigital.telkom.co.id/): Coderbyte | Technical interview
