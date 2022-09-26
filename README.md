@@ -33,6 +33,8 @@ You have come to the right place!
 
 [Rakamin Academy](https://rakamin.com): Technical Interview | Coding Test Take Home
 
+[Sarana Pactindo](https://pactindo.com/) : Technical Interview
+
 [Telkom Indonesia](https://recruitmentdigital.telkom.co.id/): Coderbyte | Technical interview
 
 ### Other 
