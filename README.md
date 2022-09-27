@@ -61,6 +61,8 @@ You have come to the right place!
 
 [YCombinator](https://www.workatastartup.com/)
 
+[Ekrut](https://www.ekrut.com/)
+
 ## CV/Resume & Cover Letter
 
 [Workhap](https://www.workhap.com/freebies/) have a template for ATS-friendly Resume & Cover Letter, you can get it on [https://www.workhap.com/freebies/](https://www.workhap.com/freebies/).
