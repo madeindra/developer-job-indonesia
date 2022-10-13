@@ -15,8 +15,10 @@ You have come to the right place!
 | [Ruangguru](https://career.ruangguru.com/)                  | -                | Live coding, technical interview |
 
 ### No Live Coding
-| Company             | Work Arrangement | Tests                                         |
-|---------------------|------------------|-----------------------------------------------|
+| Company                                                                            | Work Arrangement | Tests                                         |
+|------------------------------------------------------------------------------------|------------------|-----------------------------------------------|
+| [99](https://www.99.co/team/jobs/)                                                 | Hybrid           | Technical interview                           |
+| [Amartha](https://careers.amartha.com/)                                            | Hybrid           | Technical interview                           |
 | [Astra Internasional](https://career.astra.co.id/)                                 | On-Site          | Hackerrank, Technical interview               |
 | [Credibook](https://credibook.com/career/)                                         | Remote           | Technical interview, System design            |
 | [Deall](https://usedeall.com/career)/[SejutaCita](https://sejutacita.id/career)    | Remote           | Project (Take home), Technical interview      |
@@ -25,6 +27,7 @@ You have come to the right place!
 | [Fintax/Pajak.io](https://pajak.io/)                                               | -                | Technical interview                           |
 | [Rakamin Academy](https://rakamin.com)                                             | -                | Coding Test (Take hhome), Technical Interview |
 | [Sarana Pactindo](https://pactindo.com/)                                           | -                | Technical interview                           |
+| [SIRCLO](https://www.sirclo.com/careers/)                                          | Remote           | Project (Take home), Technical interview      |
 | [Telkom Indonesia](https://recruitmentdigital.telkom.co.id/)                       | Remote           | Coderbyte, Technical interview                |
 
 ### No Info
@@ -77,7 +80,7 @@ You have come to the right place!
 | [NodeJS Indonesia](https://t.me/nodejsid)                                   | Telegram   | Node.js developers                                          |
 | [NodeJS Jakarta](https://www.meetup.com/Node-js-Workshop/)                  | Meetup.com | Node.js developers, online/offline event                    |
 | [Overseas Indonesia](https://discord.gg/7qrq3ag4)                           | Discord    | Remote & oversea worker community                           |
-| [OWASP Jakarta Chapter](https://www.meetup.com/GDG-Jakarta/)                | Meetup.com | OWASP community, online/offline event, online/offline event |
+| [OWASP Jakarta Chapter](https://www.meetup.com/GDG-Jakarta/)                | Meetup.com | OWASP community, online/offline event                       |
 | [React Indonesia](https://www.meetup.com/reactindonesia/)                   | Meetup.com | React.js developers, online/offline event                   |
 | [ReactJS Indonesia](https://t.me/react_idn)                                 | Telegram   | React.js developers                                         |
 | [Software Engineer Indonesia](https://t.me/soft_eng_id)                     | Telegram   | Software engineer community                                 |
