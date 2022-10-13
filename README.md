@@ -6,117 +6,78 @@ You have come to the right place!
 
 ## Companies
 ### With Live Coding Test
-
-[BliBli](https://careers.blibli.com/): Personality test | Live coding
-
-[Dropezy](https://www.linkedin.com/company/dropezy/jobs/): Logical test | Live coding
-
-[IceHouse](https://icehousecorp.com/careers/): Live coding | Technical knowledge
-
-[Pintu](https://careers.pintu.co.id/): Live coding
-
-[Ruangguru](https://career.ruangguru.com/) : Technical Interview | Live Coding
+| Company                                                     | Work Arrangement | Tests                            |
+|-------------------------------------------------------------|------------------|----------------------------------|
+| [BliBli](https://careers.blibli.com/)                       | Hybrid           | Live coding, Personality test    |
+| [Dropezy](https://www.linkedin.com/company/dropezy/jobs/)   | Remote           | Live coding, Logical test        |
+| [IceHouse](https://icehousecorp.com/careers/)               | Hybrid           | Live coding, Technical interview |
+| [Pintu](https://careers.pintu.co.id/)                       | Remote           | Live coding                      |
+| [Ruangguru](https://career.ruangguru.com/)                  | -                | Live coding, technical interview |
 
 ### No Live Coding
+| Company             | Work Arrangement | Tests                                         |
+|---------------------|------------------|-----------------------------------------------|
+| [Astra Internasional](https://career.astra.co.id/)                                 | On-Site          | Hackerrank, Technical interview               |
+| [Credibook](https://credibook.com/career/)                                         | Remote           | Technical interview, System design            |
+| [Deall](https://usedeall.com/career)/[SejutaCita](https://sejutacita.id/career)    | Remote           | Project (Take home), Technical interview      |
+| [DOKU](https://www.doku.com/)                                                      | -                | Technical interview                           |
+| [Eduprime](https://www.eduprime.co.id/)                                            | -                | Technical interview                           |
+| [Fintax/Pajak.io](https://pajak.io/)                                               | -                | Technical interview                           |
+| [Rakamin Academy](https://rakamin.com)                                             | -                | Coding Test (Take hhome), Technical Interview |
+| [Sarana Pactindo](https://pactindo.com/)                                           | -                | Technical interview                           |
+| [Telkom Indonesia](https://recruitmentdigital.telkom.co.id/)                       | Remote           | Coderbyte, Technical interview                |
 
-[Astra Internasional](https://career.astra.co.id/): Hackerrank | Technical interview
-
-[Credibook](https://credibook.com/career/): Technical interview | System design
-
-[Deall](https://usedeall.com/career)/[SejutaCita](https://sejutacita.id/career): Project | Technical interview
-
-[DOKU](https://www.doku.com/): Technical Interview
-
-[Eduprime](https://www.eduprime.co.id/): Technical Interview
-
-[Fintax/Pajak.io](https://pajak.io/): Technical Interview
-
-[Rakamin Academy](https://rakamin.com): Technical Interview | Coding Test Take Home
-
-[Sarana Pactindo](https://pactindo.com/) : Technical Interview
-
-[Telkom Indonesia](https://recruitmentdigital.telkom.co.id/): Coderbyte | Technical interview
-
-### Other 
-
-[DKatalis](https://www.dkatalis.co/jobs)
-
-[Stockbit/Bibit](https://apply.workable.com/stockbit/)
-
-[Tiket](https://www.tiket.com/careers/)
-
-[Tokopedia](https://www.tokopedia.com/careers/)
+### No Info
+| Company                                                  | Work Arrangement |
+|----------------------------------------------------------|------------------|
+| [DKatalis](https://www.dkatalis.co/jobs)                 | Hybrid           |
+| [Stockbit/Bibit](https://apply.workable.com/stockbit/)   | Remote           |
+| [Tiket](https://www.tiket.com/careers/)                  | Remote           |
+| [Tokopedia](https://www.tokopedia.com/careers/)          | Remote           |
 
 ## Job Board
-
-[Deall!](https://usedeall.com/)
-
-[Glints](https://glints.com)
-
-[Remoter](https://remoter.id/)
-
-[ReviewKerja](https://reviewkerja.com/)
-
-[Tech In Asia Job](https://www.techinasia.com/jobs)
-
-[YCombinator](https://www.workatastartup.com/)
-
-[Ekrut](https://www.ekrut.com/)
+| Website                                             | Description                                                 |
+|-----------------------------------------------------|-------------------------------------------------------------|
+| [Deall!](https://usedeall.com/)                     | Rate candidates and notify job recommendations              |
+| [Ekrut](https://www.ekrut.com/)                     | Job boards, salary calculator                               |
+| [Glints](https://glints.com)                        | Jobs in South East Asia                                     |
+| [Remoter](https://remoter.id/)                      | Remote jobs                                                 |
+| [ReviewKerja](https://reviewkerja.com/)             | Job, communities, and salary info                           |
+| [Tech In Asia Job](https://www.techinasia.com/jobs) | Jobs in tech companies, companies info, application tracker |
+| [YCombinator](https://www.workatastartup.com/)      | Job in startups backed by YCombinator                       |
 
 ## CV/Resume & Cover Letter
 
-[Workhap](https://www.workhap.com/freebies/) have a template for ATS-friendly Resume & Cover Letter, you can get it on [https://www.workhap.com/freebies/](https://www.workhap.com/freebies/).
-
-## Mentoring
-
-[Made Indra](https://adplist.org/mentors/made-indra): General mentoring | CV/Resume review | Mock interview
+| Website                                      | Description                     |
+|----------------------------------------------|---------------------------------|
+| [Workhap](https://www.workhap.com/freebies/) | Resume & cover letter templates |
 
 ## Communities
 
-[Alterra - Telegram](https://t.me/Forum_Altaid)
-
-[Angular Indonesia - Telegram](https://t.me/AngularID)
-
-[Bekasi Developer Community - Telegram](https://t.me/bekasidev)
-
-[Flutter Indonesia - Telegram](https://t.me/flutter_id)
-
-[HRD Bacot - Telegram](https://t.me/hrdbacot)
-
-[Golang Indonesia - Telegram](https://t.me/golangID)
-
-[Golang Jakarta - Telegram](https://t.me/gophers_id)
-
-[Google Developer Group (GDG) Jakarta - Meetup.com](https://www.meetup.com/GDG-Jakarta/)
-
-[IDDevops - Telegram](https://t.me/IDDevOps)
-
-[Jakarta Javascript - Meetup.com](https://www.meetup.com/JakartaJS/)
-
-[Javascript Indonesia - Telegram](https://t.me/js_id)
-
-[Komunitas Jogja JS - Telegram](https://t.me/jogjajs)
-
-[JVM Indonesia - Telegram](https://t.me/JVMIndonesia)
-
-[Kita Kerja Remote - Discord](https://discord.gg/j4Ku4wbc)
-
-[Kubernetes Cloud Native Indonesia - Telegram](https://t.me/kubernetesindonesia)
-
-[Loker Developer IT Telegram - Telegram](https://t.me/LokerDeveloper)
-
-[Lowongan Kerja IT Telegram - Telegram](https://t.me/LowonganKerjaIT)
-
-[NodeJS Indonesia - Telegram](https://t.me/nodejsid)
-
-[NodeJS Jakarta - Meetup.com](https://www.meetup.com/Node-js-Workshop/)
-
-[Overseas Indonesia - Discord](https://discord.gg/7qrq3ag4)
-
-[OWASP Jakarta Chapter - Meetup.com](https://www.meetup.com/GDG-Jakarta/)
-
-[React Indonesia - Meetup.com](https://www.meetup.com/reactindonesia/)
-
-[ReactJS Indonesia - Telegram](https://t.me/react_idn)
-
-[Software Engineer Indonesia - Telegram](https://t.me/soft_eng_id)
+| Website                                                                     | Platform   | Description                                                 |
+|-----------------------------------------------------------------------------|------------|-------------------------------------------------------------|
+| [ADPList](https://adplist.org)                                              | Website    | Free mentoring platform with mentors around the world       |
+| [Alterra](https://t.me/Forum_Altaid)                                        | Telegram   | Bootcamp scholarship, job opportunity, tech community       |
+| [Angular Indonesia](https://t.me/AngularID)                                 | Telegram   | Angular developers                                          |
+| [Bekasi Developer Community](https://t.me/bekasidev)                        | Telegram   | Developers in Bekasi                                        |
+| [Flutter Indonesia](https://t.me/flutter_id)                                | Telegram   | Flutter developers                                          |
+| [HRD Bacot](https://t.me/hrdbacot)                                          | Telegram   | Job opportunity                                             |
+| [Golang Indonesia](https://t.me/golangID)                                   | Telegram   | Golang developers                                           |
+| [Golang Jakarta](https://t.me/gophers_id)                                   | Telegram   | Golang developers                                           |
+| [Google Developer Group (GDG) Jakarta](https://www.meetup.com/GDG-Jakarta/) | Meetup.com | Google's products for developers, online/offline event      |
+| [IDDevops](https://t.me/IDDevOps)                                           | Telegram   | Devops community                                            |
+| [Jakarta Javascript](https://www.meetup.com/JakartaJS/)                     | Meetup.com | Javascript community, online/offline event                  |
+| [Javascript Indonesia](https://t.me/js_id)                                  | Telegram   | Javascript developers                                       |
+| [Komunitas Jogja JS](https://t.me/jogjajs)                                  | Telegram   | Javascript developers in Jogja                              |
+| [JVM Indonesia](https://t.me/JVMIndonesia)                                  | Telegram   | Java developers                                             |
+| [Kita Kerja Remote](https://discord.gg/j4Ku4wbc)                            | Discord    | Remote worker community                                     |
+| [Kubernetes Cloud Native Indonesia](https://t.me/kubernetesindonesia)       | Telegram   | Kubernetes community                                        |
+| [Loker Developer IT](https://t.me/LokerDeveloper)                           | Telegram   | IT job opportuniry                                          |
+| [Lowongan Kerja IT](https://t.me/LowonganKerjaIT)                           | Telegram   | IT job opportuniry                                          |
+| [NodeJS Indonesia](https://t.me/nodejsid)                                   | Telegram   | Node.js developers                                          |
+| [NodeJS Jakarta](https://www.meetup.com/Node-js-Workshop/)                  | Meetup.com | Node.js developers, online/offline event                    |
+| [Overseas Indonesia](https://discord.gg/7qrq3ag4)                           | Discord    | Remote & oversea worker community                           |
+| [OWASP Jakarta Chapter](https://www.meetup.com/GDG-Jakarta/)                | Meetup.com | OWASP community, online/offline event, online/offline event |
+| [React Indonesia](https://www.meetup.com/reactindonesia/)                   | Meetup.com | React.js developers, online/offline event                   |
+| [ReactJS Indonesia](https://t.me/react_idn)                                 | Telegram   | React.js developers                                         |
+| [Software Engineer Indonesia](https://t.me/soft_eng_id)                     | Telegram   | Software engineer community                                 |
