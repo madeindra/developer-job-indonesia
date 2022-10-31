@@ -67,6 +67,7 @@ You have come to the right place!
 |-----------------------------------------------------------------------------|------------|-------------------------------------------------------------|
 | [ADPList](https://adplist.org)                                              | Website    | Free mentoring platform with mentors around the world       |
 | [Alterra](https://t.me/Forum_Altaid)                                        | Telegram   | Bootcamp scholarship, job opportunity, tech community       |
+| [Alterra (Internship & Students)](https://t.me/Forum_Altaid)                | Telegram   | Internship opportunity, tech community for                  |
 | [Angular Indonesia](https://t.me/AngularID)                                 | Telegram   | Angular developers                                          |
 | [Bekasi Developer Community](https://t.me/bekasidev)                        | Telegram   | Developers in Bekasi                                        |
 | [Flutter Indonesia](https://t.me/flutter_id)                                | Telegram   | Flutter developers                                          |
